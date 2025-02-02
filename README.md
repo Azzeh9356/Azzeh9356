@@ -4,7 +4,7 @@ Hi there! 👋 I'm [Ahmad Alazzeh]
 ![GitHub Banner](https://source.unsplash.com/1600x500/?technology,coding)
 
 ## 🚀 About Me
-I'm a **[a DEVELOP]**. I love building innovative solutions and collaborating on exciting projects.
+I'm a **[ DEVELOP]**. I love building innovative solutions and collaborating on exciting projects.
 
 - 🔭 Currently working on **[LTUC]**
 - 🌱 Learning **[Full stack]**
